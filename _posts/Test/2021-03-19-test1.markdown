@@ -3,7 +3,7 @@ layout: post
 title: "test1"
 date: 2021-03-19 19:20:23 +0900
 category: test
-typora-root-url: ../Test
+typora-root-url: ../../../Kazite.github.io/_post/test
 ---
 
 # 各种测试
@@ -118,4 +118,7 @@ $$
 
 再看一下效果
 
-我改了一下url2
+我改了一下url
+
+我又改了一下url
+
