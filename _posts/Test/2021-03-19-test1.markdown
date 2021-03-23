@@ -67,3 +67,8 @@ $$
 ace
 
 $$d_{i}=\left\|\mathbf{x}-\mathbf{x}_{i}\right\|, \mathbf{x}=[x, y]^{T}$$
+
+请问请问为什么同步不了
+
+
+
