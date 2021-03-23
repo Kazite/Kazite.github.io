@@ -72,9 +72,12 @@ $$ d_{i}=\left\|\mathbf{x}-\mathbf{x}_{i}\right\|, \mathbf{x}=[x, y]^{T} $$
 $$
 x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
 $$
-123456
+
+* 123456
 
 们的公式编号。`"AMS"` 就是采用AMSmath的编号风格。比如环境 `align`：
+
+
 $$
 \begin{align}
   \nabla\times\vec{\mathbf{B}}-\frac{1}{c}\frac{\partial\vec{\mathbf{E}}}{\partial t} &= \frac{4\pi}{c}\vec{\mathbf{j}} \\
@@ -83,5 +86,7 @@ $$
   \nabla\cdot\vec{\mathbf{B}} &= 0
 \end{align}
 $$
+
+
 上面是TEX代码
 
