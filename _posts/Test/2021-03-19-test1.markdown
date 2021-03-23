@@ -30,11 +30,14 @@ category: test
 print(hello)
 ```
 
-$d_{i}=\left\|\mathbf{x}-\mathbf{x}_{i}\right\|, \mathbf{x}=[x, y]^{T}$
+$$
+
+d_{i}=\left\|\mathbf{x}-\mathbf{x}_{i}\right\|, \mathbf{x}=[x, y]^{T}
+
+$$
 $$
 d_{i}=\left\|\mathbf{x}-\mathbf{x}_{i}\right\|, \mathbf{x}=[x, y]^{T}
 $$
-
 
 [我的视频](https://www.bilibili.com/video/BV1k64y1D7eY)
 
