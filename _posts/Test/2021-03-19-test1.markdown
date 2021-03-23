@@ -51,3 +51,4 @@ $$
 
 <img src="2021-03-19-test1.assets/image-20210323191752989.png" alt="image-20210323191752989" style="zoom: 20%;" />
 
+http://chart.googleapis.com/chart?cht=tx&chl=d_{i}=\left\|\mathbf{x}-\mathbf{x}_{i}\right\|, \mathbf{x}=[x, y]^{T}
