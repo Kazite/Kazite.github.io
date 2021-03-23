@@ -3,7 +3,8 @@ layout: post
 title: "test1"
 date: 2021-03-19 19:20:23 +0900
 category: test
-typora-root-url: ../../../Kazite.github.io/_post/test
+typora-root-url: ../../../Kazite.github.io
+typora-copy-images-to: ../../assets
 ---
 
 # 各种测试
@@ -121,4 +122,6 @@ $$
 我改了一下url
 
 我又改了一下url
+
+![2021-03-19-test1_01](/assets/2021-03-19-test1_01.jpg)
 
