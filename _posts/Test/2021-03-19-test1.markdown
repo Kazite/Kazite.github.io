@@ -103,4 +103,8 @@ $$
 
 ![1](2021-03-19-test1.assets/1.jpg)
 
+{{ "2021-03-19-test1.assets/1.jpg" | prepend: site.baseurl }}
+
+
+
 不知道行不行= =
