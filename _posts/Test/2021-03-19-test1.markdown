@@ -3,6 +3,7 @@ layout: post
 title: "test1"
 date: 2021-03-19 19:20:23 +0900
 category: test
+typora-root-url: ../../../Kazite.github.io
 ---
 
 # 各种测试
@@ -108,3 +109,7 @@ $$
 
 
 不知道行不行= =
+
+![2](/_posts/Test/2021-03-19-test1.assets/2.jpg)
+
+不行就再测试一下
