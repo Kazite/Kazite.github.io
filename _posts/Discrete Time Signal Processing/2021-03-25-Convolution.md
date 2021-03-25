@@ -23,18 +23,11 @@ $$
 
 ## 卷积定义图解
 
-$$
-\begin{aligned}
-& 假定x=\tau，y=n-\tau,x+y=n可以视作下面直线的遍历 &\\
-\end{aligned}
-$$
+假定x=t，y=n-t,x+y=n可以视作下面直线的遍历
 
 <img src="/assets_2021Early/2021-03-25-卷积-01.gif" alt="2021-03-25-卷积-01" style="zoom:50%;" />
-$$
-\begin{aligned}
-\\ 遍历这些直线，好比将毛巾沿着角卷起来
-\end{aligned}
-$$
+
+遍历这些直线，好比将毛巾沿着角卷起来，某种意义上可这样理解为“卷积”
 
 ## 案例分析
 
