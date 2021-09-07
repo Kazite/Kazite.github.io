@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "半导体参数"
+title: "【基本概念】半导体（Semiconductor）"
 date: 2021-09-07
 category: Note
 typora-root-url: ../../../Kazite.github.io
