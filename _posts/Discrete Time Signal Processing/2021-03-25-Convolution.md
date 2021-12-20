@@ -2,7 +2,7 @@
 layout: post
 title: "【基本概念】卷积（Convolution）"
 date: 2021-03-25
-category: Discrete Time Signal Processing
+category:Discrete Time Signal Processing
 typora-root-url: ../../../Kazite.github.io
 typora-copy-images-to: ../../assets_2021Early
 ---
