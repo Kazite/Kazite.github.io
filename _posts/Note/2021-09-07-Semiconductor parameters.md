@@ -2,7 +2,7 @@
 layout: post
 title: "【基本概念】半导体（Semiconductor）"
 date: 2021-09-07
-category:Note
+category: Note
 typora-root-url: ../../../Kazite.github.io
 typora-copy-images-to: ../../assets_2021Late
 
