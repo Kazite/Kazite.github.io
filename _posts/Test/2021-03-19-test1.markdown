@@ -33,9 +33,7 @@ print(hello)
 ```
 
 $$
-
 d_{i}=\left\|\mathbf{x}-\mathbf{x}_{i}\right\|, \mathbf{x}=[x, y]^{T}
-
 $$
 $$
 d_{i}=\left\|\mathbf{x}-\mathbf{x}_{i}\right\|, \mathbf{x}=[x, y]^{T}
@@ -61,9 +59,7 @@ http://chart.googleapis.com/chart?cht=tx&chl=d_{i}=\left\|\mathbf{x}-\mathbf{x}_
 公式块
 
 $$
-
 d_{i}=\left\|\mathbf{x}-\mathbf{x}_{i}\right\|, \mathbf{x}=[x, y]^{T}
-
 $$
 
 ace
@@ -139,3 +135,4 @@ $$
 
 ![2021-03-19-test1_03](/assets/2021-03-19-test1_03.png)
 
+wokkkkkk为什么不行啊啊啊啊快给我更新一下
