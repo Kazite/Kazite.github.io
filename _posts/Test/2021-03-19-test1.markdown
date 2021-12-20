@@ -2,7 +2,7 @@
 layout: post
 title: "test1——格式、图片插入"
 date: 2021-03-19 19:20:23 +0900
-category: test
+category:test
 typora-root-url: ../../../Kazite.github.io
 typora-copy-images-to: ../../assets
 ---
